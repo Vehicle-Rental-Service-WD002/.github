@@ -144,10 +144,7 @@ Currently under development.
 
 ---
 
-## Note
-
 This project is developed for academic purposes as part of the WD 1.2 module.
-## Hi there 👋
 
 <!--
 
