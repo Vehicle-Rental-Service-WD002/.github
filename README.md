@@ -148,12 +148,18 @@ Currently under development.
 
 # Vehicle Rental Management System
 
-## UML Diagram
 
-![UML Diagram](profile/images/Vehicle-Rental-UML.png)
+<h2 align="center">UML Diagram</h2>
 
-## ER Diagram
+<p align="center">
+  <img src="profile/images/Vehicle-Rental-UML.png" width="900">
+</p>
 
-![ER Diagram](profile/images/Vehicle-Rental-System-ER.png)
+<h2 align="center">ER Diagram</h2>
+
+<p align="center">
+  <img src="profile/images/Vehicle-Rental-System-ER.png" width="900">
+</p>
+
 
 This project is developed for academic purposes as part of the WD 1.2 module.
