@@ -146,4 +146,14 @@ Currently under development.
 
 ## Note
 
+# Vehicle Rental Management System
+
+## UML Diagram
+
+![UML Diagram](images/uml-diagram.png)
+
+## ER Diagram
+
+![ER Diagram](images/er-diagram.png)
+
 This project is developed for academic purposes as part of the WD 1.2 module.
