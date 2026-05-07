@@ -146,13 +146,13 @@ Currently under development.
 <h2 align="center">UML Diagram</h2>
 
 <p align="center">
-  <img src="profile/images/Vehicle-Rental-UML.png" width="900">
+  <img src="images/Vehicle-Rental-UML.png" width="900">
 </p>
 
 <h2 align="center">ER Diagram</h2>
 
 <p align="center">
-  <img src="profile/images/Vehicle-Rental-System-ER.png" width="900">
+  <img src="images/Vehicle-Rental-System-ER.png" width="900">
 </p>
 
 This project is developed for academic purposes as part of the WD 1.2 module.
