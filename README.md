@@ -150,10 +150,10 @@ Currently under development.
 
 ## UML Diagram
 
-![UML Diagram](images/uml-diagram.png)
+![UML Diagram](images/Vehicle-Rental-UML.png)
 
 ## ER Diagram
 
-![ER Diagram](images/er-diagram.png)
+![ER Diagram](images/Vehicle-Rental-System-ER.png)
 
 This project is developed for academic purposes as part of the WD 1.2 module.
