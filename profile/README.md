@@ -146,7 +146,7 @@ Currently under development.
 <h2 align="center">UML Diagram</h2>
 
 <p align="center">
-  <img src="images/Vehicle-Rental-UML.png" width="900">
+  <img src="images/Vehicle Rental Management-2026-05-14-134726.png" width="900">
 </p>
 
 <h2 align="center">ER Diagram</h2>
